@@ -1,5 +1,5 @@
 <?php
-$sitename = "File Host";
+$sitename = "Google Drive Direct Link";
 if (empty($name)) {
 $title = $sitename.' | Yandex Disk, MediaFire & Google Drive File Downloader';
 } else {
@@ -32,5 +32,3 @@ $title = $name.' | '.$sitename;
   <a class="btnplus " href="/"><i class="fa fa-user"></i>&nbsp;Login</a>&nbsp;&nbsp;<a class="btnplus " href="/">
   <i class="fa fa-user"></i>&nbsp;Signup</a></div></div>
   
-  <br></br>
-  <center><h2> <a href='//github.com/sacms/file-Host'> Download Source Code </a></h2></center>
