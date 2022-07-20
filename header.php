@@ -29,6 +29,6 @@ $title = $name.' | '.$sitename;
 <body class="bg-light">
 <div class="navbar-filmy"><div class="logo" align="center"><a href="https://www.lelo-moviez.xyz/">
   <?= $sitename ?> | Fast Download</a></div><div class="userplus" align="center">
-  <a class="btnplus " href="/"><i class="fa fa-user"></i>&nbsp;Login</a>&nbsp;&nbsp;<a class="btnplus " href="/">
+  <a class="btnplus " href="https://www.lelo-moviez.xyz/"><i class="fa fa-user"></i>&nbsp;Login</a>&nbsp;&nbsp;<a class="btnplus " href="https://www.lelo-moviez.xyz/">
   <i class="fa fa-user"></i>&nbsp;Signup</a></div></div>
   
